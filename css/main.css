@@ -162,3 +162,9 @@ body {
     width: 90%;
   }
 }
+
+@media (max-width: 768px) {
+	.cover-heading {
+		margin-top: 50%;
+	}
+}
