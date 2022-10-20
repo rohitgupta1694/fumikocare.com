@@ -1,2 +1,2 @@
-# Aryan International Static Page
-This is a static page for Aryan International: [aryaninternational.biz](http://www.aryaninternational.biz)
+# Fumiko Care Static Page
+This is a static page for Fumiko: [fumikocare.com](http://www.fumicocare.com)
